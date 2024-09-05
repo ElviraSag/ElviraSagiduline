@@ -1,1 +1,1 @@
-# ElviraSagiduline
+🌱 I'm curently learning Python
